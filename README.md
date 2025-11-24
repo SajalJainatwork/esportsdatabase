@@ -7,6 +7,7 @@ This project involves the creation and analysis of a MySQL Relational Database d
 Here is a detailed note of the project's purpose, scope, and technical features
 
 📝 eSports Database Project
+
 🎯 Project Title
 eSports Management System: Relational Database Design & Implementation (MySQL)
 
